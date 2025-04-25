@@ -17,8 +17,8 @@ A minimal Node.js + Express server with SQLite and JWT authentication, created f
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone https://github.com/alimahmoudidev/node-auth-server
+cd node-auth-server
 ```
 
 ### Install the dependencies:
